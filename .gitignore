@@ -398,3 +398,6 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+BddReqnrollFramework.Tests/.DS_Store
+BddReqnrollFramework.Tests/allure-report/** 
+Features/*.feature.cs
