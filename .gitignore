@@ -401,3 +401,4 @@ FodyWeavers.xsd
 BddReqnrollFramework.Tests/.DS_Store
 Framework.Tests/allure-report/**
 Framework.Tests/Features/*.feature.cs
+.DS_Store
